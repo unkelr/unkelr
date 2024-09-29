@@ -1,13 +1,12 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
 <p align='center'>
-  <img src='https://cdn.discordapp.com/attachments/1225497087760928829/1226237386921611274/a3906026521_65.jpg?ex=6624098f&is=6611948f&hm=e21ec384fb47727f8f0269e3acf3d60660671fad51e27ebe0e20b2e0a1dc97e2&'width='225' height='225'>
+  <img src='http://unkelrunkel.se/images/g59_white.png'>
 </p>
 
 
 ## About Me 📝
-Developer. Interested in anything. 15.
-
+Python Developer. Aswell as part-time 
 ## Projects 🖥️ </> 
 https://github.com/unkelr/Unkel-MultiTool-Example
 
@@ -17,13 +16,9 @@ https://github.com/unkelr/Simple-Token-Grabber
 
 https://github.com/unkelr/Unkel-Webhook-Manager
 
-https://github.com/unkelr/Unkel-Gift-Checker
-
 Coming more!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unkelr&label=Profile%20views&color=0e75b6&style=flat" alt="unkelr" /> </p>
-
-- Discord - [unkelmarket](https://discord.gg/unkelmarket)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
